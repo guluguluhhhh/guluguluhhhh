@@ -6,15 +6,16 @@ I'm **Jinhua Wu**, a.k.a. **gulugulu**.
 
 ### Previously
 
-- 🏆 **1st Prize, 5th OceanBase Database Contest** - Built a high-performance search engine with SIMD-accelerated inverted indexing, alongside an accurate, structural-aware PDF RAG system. 
-- 🌊 **Streaming Engine Contributor** - Implemented GapFill features and multiple interpolation strategies for time-series data in RisingWave.
-- 🕸️ **Graph Database Contributor** - Integrated factorization optimizations to resolve Cartesian product explosions and minimize intermediate results in TuGraph-miniGU.
-- 📽️ **Backend Developer @ ByteDance** - Built real-time audio/video server systems and end-to-end latency tracking infrastructures.
-- 🧬 **AI Researcher** - Accelerated Bayesian optimizers using LLMs for openEuler A-Tune, and designed Twin-Conformer architectures for chromosome abnormality detection.
+- 🏆 **1st Prize, 5th OceanBase Database Contest** - Built a high-performance search engine and an accurate PDF RAG system.
+- 🌊 **RisingWave Contributor** - Implemented GapFill operators for time-series streaming data.
+- 🕸️ **TuGraph Contributor** - Optimized graph query execution by resolving Cartesian product explosions.
+- 📽️ **Backend Dev @ ByteDance** - Developed backend systems and latency tracking pipelines for real-time audio/video services.
+- 🧬 **AI Researcher** - Explored LLM-assisted system performance tuning and Conformer-based anomaly detection.
 
 ### Building Now
-- 🚀 **RAGCache Optimization** - Designing chunk-level KV Cache reuse and memory layout strategies to maximize document cache hit rates and system throughput in RAG scenarios.
-- 🧠 **Long-Context Inference** - Accelerating LLM serving via dynamic sparse attention and speculative sampling, featuring block-level cache metadata and mixed-batching execution.
+
+- 🚀 **RAGCache Optimization** - Designing chunk-level KV Cache reuse strategies to maximize LLM serving throughput.
+- 🧠 **Long-Context Inference** - Accelerating LLM inference via dynamic sparse attention and speculative sampling.
 
 ### Find Me
 
